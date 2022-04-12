@@ -1,0 +1,11 @@
+{
+  "name": "streak-counter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/michaelaj/streak-counter.git",
+  "author": "Michael Johnson <mike@venel.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.7.0-beta"
+  }
+}
